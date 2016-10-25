@@ -1,6 +1,6 @@
 {
   "labels": "en_US",
-  "page": [{
+  "pages": [{
     "url": "/",
     "pageTitle": "Home",
     "layout": "home.html",
