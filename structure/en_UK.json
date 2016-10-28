@@ -5,7 +5,18 @@
     "pageTitle": "Home",
     "layout": "domestic-hardcoded.html",
     "contentBlocks": {
-      
+      "list": [{
+        "file": "great.gov.uk/non-domestic/buy from the uk/en.md"
+      }, {
+        "file": "great.gov.uk/non-domestic/invest in the uk/en.md",
+        "link_label": "see_the_potential"
+      }, {
+        "file": "great.gov.uk/non-domestic/study in the uk/en.md",
+        "link_label": "learn_more"
+      }, {
+        "file": "great.gov.uk/non-domestic/visit the uk/en.md",
+        "link_label": "plan_your_trip"
+      }]
     }
   }]
 }
