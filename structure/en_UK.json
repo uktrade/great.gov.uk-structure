@@ -1,9 +1,9 @@
 {
-  "labels": "en_US",
+  "labels": "en_UK",
   "pages": [{
     "url": "/",
     "pageTitle": "Home",
-    "layout": "non-domestic-hardcoded.html",
+    "layout": "domestic-hardcoded.html",
     "contentBlocks": {
       
     }
