@@ -3,14 +3,15 @@
   "pages": [{
     "url": "/",
     "pageTitle": "Home",
-    "layout": "non-domestic-hardcoded.html",
+    "layout": "non-domestic.html",
     "contentBlocks": {
       "pageHeader": {
-        "file": "great.gov.uk/non-domestic/intro/de.md"
+        "file": "great.gov.uk/non-domestic/experience the uk/de.md"
       },
       "pageFooter": {
-        "file": "great.gov.uk/non-domestic/footer/de.md",
-        "link_label": "experience_the_uk"
+        "file": "great.gov.uk/non-domestic/help to export/de.md",
+        "link_label": "help_to_export",
+        "link_target": "/uk"
       },
       "list": [{
         "file": "great.gov.uk/non-domestic/buy from the uk/de.md"

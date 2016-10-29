@@ -3,26 +3,34 @@
   "pages": [{
     "url": "/",
     "pageTitle": "Home",
-    "layout": "domestic-hardcoded.html",
+    "layout": "domestic.html",
     "contentBlocks": {
       "pageHeader": {
-        "file": "great.gov.uk/non-domestic/intro/en.md"
+        "file": "great.gov.uk/domestic/your UK opportunity/en.md"
       },
       "pageFooter": {
-        "file": "great.gov.uk/non-domestic/footer/en.md",
+        "file": "great.gov.uk/domestic/experience the UK/en.md",
         "link_label": "experience_the_uk"
       },
-      "list": [{
-        "file": "great.gov.uk/non-domestic/buy from the uk/en.md"
+      "contentHead": {
+        "file": "great.gov.uk/domestic/help to sell/en.md"
+      },
+      "contentList": [{
+        "file": "great.gov.uk/domestic/help to sell/new to exporting/en.md",
+        "link_label": "new_to_exporting"
       }, {
-        "file": "great.gov.uk/non-domestic/invest in the uk/en.md",
-        "link_label": "see_the_potential"
+        "file": "great.gov.uk/domestic/help to sell/selling abroad occasionally/en.md",
+        "link_label": "export_more"
       }, {
-        "file": "great.gov.uk/non-domestic/study in the uk/en.md",
-        "link_label": "learn_more"
+        "file": "great.gov.uk/domestic/help to sell/experienced exporters/en.md",
+        "link_label": "find_new_opportunities"
+      }],
+      "subContentList": [{
+        "file": "great.gov.uk/domestic/get seen/en.md",
+        "link_label": "get_trade_index_profile"
       }, {
-        "file": "great.gov.uk/non-domestic/visit the uk/en.md",
-        "link_label": "plan_your_trip"
+        "file": "great.gov.uk/domestic/support for investment/en.md",
+        "link_label": "see_sector_showcase"
       }]
     }
   }]
