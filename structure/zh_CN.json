@@ -5,6 +5,13 @@
     "pageTitle": "Home",
     "layout": "non-domestic-hardcoded.html",
     "contentBlocks": {
+      "pageHeader": {
+        "file": "great.gov.uk/non-domestic/intro/zh.md"
+      },
+      "pageFooter": {
+        "file": "great.gov.uk/non-domestic/footer/zh.md",
+        "link_label": "experience_the_uk"
+      },
       "list": [{
         "file": "great.gov.uk/non-domestic/buy from the uk/zh.md"
       }, {
