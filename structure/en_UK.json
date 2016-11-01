@@ -1,7 +1,14 @@
 {
   "labels": "en",
+  "sharedMeta" : {
+    "locale" : {
+      "language" : "en",
+      "country" : "uk",
+      "countryName" : "United Kingdom"
+    }
+  },
   "pages": [{
-    "url": "/",
+    "url": "uk",
     "pageTitle": "Home",
     "layout": "domestic.html",
     "contentBlocks": {
