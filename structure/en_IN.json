@@ -21,7 +21,8 @@
         "link_target": "/uk"
       },
       "list": [{
-        "file": "great.gov.uk/non-domestic/buy from the uk/en.md"
+        "file": "great.gov.uk/non-domestic/buy from the uk/en.md",
+        "link_label": "buy_from_uk"
       }, {
         "file": "great.gov.uk/non-domestic/invest in the uk/en.md",
         "link_label": "see_the_potential"
