@@ -17,7 +17,8 @@
       },
       "pageFooter": {
         "file": "great.gov.uk/domestic/experience the UK/en.md",
-        "link_label": "experience_the_uk"
+        "link_label": "experience_the_uk",
+        "link_target": "/int"
       },
       "contentHead": {
         "file": "great.gov.uk/domestic/help to sell/en.md"
