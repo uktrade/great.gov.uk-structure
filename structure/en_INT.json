@@ -34,6 +34,16 @@
         "file": "great.gov.uk/non-domestic/visit the uk/en.md",
         "link_label": "plan_your_trip"
       }]
-    }
+    },
+    "children": [{
+      "url": "privacy-policy",
+      "pageTitle": "Privacy and cookies",
+      "layout": "generic.html",
+      "contentBlocks": {
+        "contentList": [{
+          "file": "great.gov.uk/privacy-policy/en.md"
+        }]
+      }
+    }]
   }]
 }
