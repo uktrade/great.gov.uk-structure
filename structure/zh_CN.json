@@ -22,16 +22,20 @@
       },
       "list": [{
         "file": "great.gov.uk/non-domestic/buy from the uk/zh.md",
-        "link_label": "buy_from_uk"
+        "link_label": "buy_from_uk",
+        "link_target": "https://www.great.gov.uk/export"
       }, {
         "file": "great.gov.uk/non-domestic/invest in the uk/zh.md",
-        "link_label": "see_the_potential"
+        "link_label": "see_the_potential",
+        "link_target": "https://www.great.gov.uk/export"
       }, {
         "file": "great.gov.uk/non-domestic/study in the uk/zh.md",
-        "link_label": "learn_more"
+        "link_label": "learn_more",
+        "link_target": "https://www.great.gov.uk/study"
       }, {
         "file": "great.gov.uk/non-domestic/visit the uk/zh.md",
-        "link_label": "plan_your_trip"
+        "link_label": "plan_your_trip",
+        "link_target": "https://www.great.gov.uk/visit"
       }]
     },
     "children": [{
