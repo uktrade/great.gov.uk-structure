@@ -51,8 +51,8 @@
     "layout": "domestic.html",
     "contentBlocks": {
       "contentList": [{
-        "file": "great.gov.uk/privacy-policy/en.md",
-      }],
+        "file": "great.gov.uk/privacy-policy/en.md"
+      }]
     }
   }]
 }
