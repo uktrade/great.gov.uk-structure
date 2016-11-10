@@ -26,24 +26,24 @@
       "contentList": [{
         "file": "great.gov.uk/domestic/help to sell/new to exporting/en.md",
         "link_label": "new_to_exporting",
-        "link_target": "https://www.great.gov.uk/export"
+        "link_target": "https://www.great.gov.uk/export/new"
       }, {
         "file": "great.gov.uk/domestic/help to sell/selling abroad occasionally/en.md",
         "link_label": "export_more",
-        "link_target": "https://www.great.gov.uk/export/opportunities"
+        "link_target": "https://www.great.gov.uk/export/occasional"
       }, {
         "file": "great.gov.uk/domestic/help to sell/experienced exporters/en.md",
         "link_label": "find_new_opportunities",
-        "link_target": "https://www.great.gov.uk/export/opportunities"
+        "link_target": "https://www.great.gov.uk/export/regular"
       }],
       "subContentList": [{
         "file": "great.gov.uk/domestic/get seen/en.md",
         "link_label": "get_trade_index_profile",
-        "link_target": "https://www.great.gov.uk/export/selling-online-overseas"
+        "link_target": "https://www.great.gov.uk/export/find-a-buyer"
       }, {
         "file": "great.gov.uk/domestic/support for investment/en.md",
         "link_label": "see_sector_showcase",
-        "link_target": "https://www.great.gov.uk/invest"
+        "link_target": "https://www.great.gov.uk/invest/int"
       }]
     },
     "children": [{
