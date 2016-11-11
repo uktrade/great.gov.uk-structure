@@ -54,7 +54,8 @@
         "contentList": [{
           "file": "great.gov.uk/privacy-policy/en.md"
         }]
-      },
+      }
+    }, {
       "url": "beta",
       "pageTitle": "This is a new service",
       "layout": "generic.html",
