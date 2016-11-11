@@ -4,8 +4,13 @@
     {
       "url": "",
       "fileName":"404.html",
-      "pageTitle": "404",
-      "layout": "generic.html"
+      "pageTitle": "HTTP Error code 404 - Page not found`",
+      "layout": "404.html",
+      "contentBlocks" : {
+        "pageHeader" : {
+        "file" : "beta/info/404/en_US.md"
+        }
+      }
     },
     {
 		"url": "beta",
