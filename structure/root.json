@@ -1,0 +1,10 @@
+{
+  "pages": [
+    {
+      "url": "",
+      "fileName":"404.html",
+      "pageTitle": "404",
+      "layout": "generic.html"
+    }
+  ]
+}
