@@ -5,6 +5,26 @@
       "fileName":"404.html",
       "pageTitle": "404",
       "layout": "generic.html"
-    }
+    },
+    {
+		"url": "beta",
+		"pageTitle": "This is a new service",
+		"layout": "generic.html",
+		"contentBlocks": {
+		"contentList": [{
+		  "file": "great.gov.uk/beta/en.md"
+		}]
+		}
+	},
+	{
+	  "url": "privacy-policy",
+      "pageTitle": "Privacy and cookies",
+      "layout": "generic.html",
+      "contentBlocks": {
+        "contentList": [{
+          "file": "great.gov.uk/privacy-policy/en.md"
+        }]
+      }
+	}
   ]
 }
