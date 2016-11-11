@@ -46,6 +46,14 @@
         "contentList": [{
           "file": "great.gov.uk/privacy-policy/zh.md"
         }]
+      },
+      "url": "beta",
+      "pageTitle": "This is a new service",
+      "layout": "generic.html",
+      "contentBlocks": {
+        "contentList": [{
+          "file": "great.gov.uk/beta/zh.md"
+        }]
       }
     }]
   }]
