@@ -39,7 +39,7 @@
       }]
     },
     "children": [{
-      "url": "privacy-policy",
+      "url": "Datenschutzerklärung",
       "pageTitle": "Privacy and cookies",
       "layout": "generic.html",
       "contentBlocks": {
