@@ -49,7 +49,7 @@
       }
     }, {
       "url": "beta",
-      "pageTitle": "This is a new service",
+      "pageTitle": "Dies ist einer neuer Dienst",
       "layout": "generic.html",
       "contentBlocks": {
         "contentList": [{
