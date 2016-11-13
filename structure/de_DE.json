@@ -39,8 +39,8 @@
       }]
     },
     "children": [{
-      "url": "Datenschutzerklärung",
-      "pageTitle": "Privacy and cookies",
+      "url": "privacy-policy",
+      "pageTitle": "Datenschutzerklärung",
       "layout": "generic.html",
       "contentBlocks": {
         "contentList": [{
