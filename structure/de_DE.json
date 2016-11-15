@@ -1,10 +1,10 @@
 {
   "labels": "de",
-  "sharedMeta" : {
-    "locale" : {
-      "language" : "de",
-      "country" : "de",
-      "countryName" : "Deutschland"
+  "sharedMeta": {
+    "locale": {
+      "language": "de",
+      "country": "de",
+      "countryName": "Deutschland"
     }
   },
   "pages": [{
@@ -54,6 +54,15 @@
       "contentBlocks": {
         "contentList": [{
           "file": "great.gov.uk/beta/de.md"
+        }]
+      }
+    }, {
+      "url": "terms-and-conditions",
+      "pageTitle": "GREAT.gov.uk Geschäftsbedingungen",
+      "layout": "generic.html",
+      "contentBlocks": {
+        "contentList": [{
+          "file": "great.gov.uk/terms-and-conditions/de.md"
         }]
       }
     }]

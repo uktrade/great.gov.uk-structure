@@ -56,6 +56,15 @@
           "file": "great.gov.uk/beta/en.md"
         }]
       }
+    }, {
+      "url": "terms-and-conditions",
+      "pageTitle": "Terms and Conditions",
+      "layout": "generic.html",
+      "contentBlocks": {
+        "contentList": [{
+          "file": "great.gov.uk/terms-and-conditions/en.md"
+        }]
+      }
     }]
   }]
 }

@@ -56,6 +56,15 @@
           "file": "great.gov.uk/beta/zh.md"
         }]
       }
+    }, {
+      "url": "terms-and-conditions",
+      "pageTitle": "GREAT.gov.uk的条款和条件",
+      "layout": "generic.html",
+      "contentBlocks": {
+        "contentList": [{
+          "file": "great.gov.uk/terms-and-conditions/zh.md"
+        }]
+      }
     }]
   }]
 }
