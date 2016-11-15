@@ -52,7 +52,7 @@
       "layout": "generic.html",
       "contentBlocks": {
         "contentList": [{
-          "file": "great.gov.uk/privacy-policy/en.md"
+          "file": "great.gov.uk/privacy-policy/content/en.md"
         }]
       }
     }, {
@@ -70,7 +70,7 @@
       "layout": "generic.html",
       "contentBlocks": {
         "contentList": [{
-          "file": "great.gov.uk/terms-and-conditions/en.md"
+          "file": "great.gov.uk/terms-and-conditions/content/en.md"
         }]
       }
     }]

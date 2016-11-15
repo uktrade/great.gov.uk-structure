@@ -44,7 +44,7 @@
       "layout": "generic.html",
       "contentBlocks": {
         "contentList": [{
-          "file": "great.gov.uk/privacy-policy/zh.md"
+          "file": "great.gov.uk/privacy-policy/content/zh.md"
         }]
       }
     }, {
@@ -62,7 +62,7 @@
       "layout": "generic.html",
       "contentBlocks": {
         "contentList": [{
-          "file": "great.gov.uk/terms-and-conditions/zh.md"
+          "file": "great.gov.uk/terms-and-conditions/content/zh.md"
         }]
       }
     }]

@@ -44,7 +44,7 @@
       "layout": "generic.html",
       "contentBlocks": {
         "contentList": [{
-          "file": "great.gov.uk/privacy-policy/de.md"
+          "file": "great.gov.uk/privacy-policy/content/de.md"
         }]
       }
     }, {
@@ -62,7 +62,7 @@
       "layout": "generic.html",
       "contentBlocks": {
         "contentList": [{
-          "file": "great.gov.uk/terms-and-conditions/de.md"
+          "file": "great.gov.uk/terms-and-conditions/content/de.md"
         }]
       }
     }]
