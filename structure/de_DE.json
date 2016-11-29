@@ -1,68 +1,72 @@
 {
-  "labels": "de",
-  "sharedMeta": {
+
+  "globalData": {
     "locale": {
       "language": "de",
       "country": "de",
       "countryName": "Deutschland"
+    },
+    "labels": {
+      "content": "_labels-great.gov.uk/de.md",
+      "hoist": true
     }
   },
   "pages": [{
-    "url": "de",
-    "pageTitle": "Home",
+    "path": "de",
     "layout": "non-domestic.html",
-    "contentBlocks": {
+    "data": {
+      "pageTitle": "Home",
       "pageHeader": {
-        "file": "great.gov.uk/non-domestic/experience the uk/de.md"
+        "content": "great.gov.uk/non-domestic/experience the uk/de.md"
       },
       "pageFooter": {
-        "file": "great.gov.uk/non-domestic/help to export/de.md",
+        "content": "great.gov.uk/non-domestic/help to export/de.md",
         "link_label": "help_to_export",
         "link_target": "/uk"
       },
       "list": [{
-        "file": "great.gov.uk/non-domestic/buy from the uk/de.md",
+        "content": "great.gov.uk/non-domestic/buy from the uk/de.md",
         "link_label": "buy_from_uk",
         "link_target": "https://www.great.gov.uk/trade"
       }, {
-        "file": "great.gov.uk/non-domestic/invest in the uk/de.md",
+        "content": "great.gov.uk/non-domestic/invest in the uk/de.md",
         "link_label": "see_the_potential",
         "link_target": "https://www.great.gov.uk/de/invest"
       }, {
-        "file": "great.gov.uk/non-domestic/study in the uk/de.md",
+        "content": "great.gov.uk/non-domestic/study in the uk/de.md",
         "link_label": "learn_more",
         "link_target": "https://www.great.gov.uk/study"
       }, {
-        "file": "great.gov.uk/non-domestic/visit the uk/de.md",
+        "content": "great.gov.uk/non-domestic/visit the uk/de.md",
         "link_label": "plan_your_trip",
         "link_target": "https://www.visitbritain.com/de/de"
       }]
     },
     "children": [{
-      "url": "privacy-policy",
-      "pageTitle": "Datenschutzerklärung",
+      "path": "privacy-policy",
       "layout": "generic.html",
-      "contentBlocks": {
+      "data": {
+        "pageTitle": "Datenschutzerklärung",
         "contentList": [{
-          "file": "great.gov.uk/privacy-policy/content/de.md"
+          "content": "great.gov.uk/privacy-policy/content/de.md"
         }]
       }
     }, {
-      "url": "beta",
-      "pageTitle": "Dies ist einer neuer Dienst",
+      "path": "beta",
       "layout": "generic.html",
-      "contentBlocks": {
+      "data": {
+        "pageTitle": "Dies ist einer neuer Dienst",
         "contentList": [{
-          "file": "great.gov.uk/beta/de.md"
+          "content": "great.gov.uk/beta/de.md"
         }]
       }
     }, {
-      "url": "terms-and-conditions",
-      "pageTitle": "GREAT.gov.uk Geschäftsbedingungen",
+      "path": "terms-and-conditions",
       "layout": "generic.html",
-      "contentBlocks": {
+      "data": {
+        "pageTitle": "GREAT.gov.uk Geschäftsbedingungen",
         "contentList": [{
-          "file": "great.gov.uk/terms-and-conditions/content/de.md"
+          "content": "great.gov.uk/terms-and-conditions/content/de.md"
         }]
       }
     }]

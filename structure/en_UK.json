@@ -1,76 +1,79 @@
 {
-  "labels": "en",
-  "sharedMeta": {
+  "globalData": {
     "locale": {
       "language": "en",
       "country": "uk",
       "countryName": "United Kingdom"
+    },
+    "labels": {
+      "content": "_labels-great.gov.uk/en.md",
+      "hoist": true
     }
   },
   "pages": [{
-    "url": "uk",
-    "pageTitle": "Home",
+    "path": "uk",
     "layout": "domestic.html",
-    "contentBlocks": {
+    "data": {
+      "pageTitle": "Home",
       "pageHeader": {
-        "file": "great.gov.uk/domestic/your UK opportunity/en.md"
+        "content": "great.gov.uk/domestic/your UK opportunity/en.md"
       },
       "pageFooter": {
-        "file": "great.gov.uk/domestic/experience the UK/en.md",
+        "content": "great.gov.uk/domestic/experience the UK/en.md",
         "link_label": "experience_the_uk",
         "link_target": "/int"
       },
       "contentHead": {
-        "file": "great.gov.uk/domestic/help to sell/en.md"
+        "content": "great.gov.uk/domestic/help to sell/en.md"
       },
       "contentList": [{
-        "file": "great.gov.uk/domestic/help to sell/new to exporting/en.md",
+        "content": "great.gov.uk/domestic/help to sell/new to exporting/en.md",
         "link_label": "new_to_exporting",
         "link_target": "https://www.great.gov.uk/export/new"
       }, {
-        "file": "great.gov.uk/domestic/help to sell/selling abroad occasionally/en.md",
+        "content": "great.gov.uk/domestic/help to sell/selling abroad occasionally/en.md",
         "link_label": "export_more",
         "link_target": "https://www.great.gov.uk/export/occasional"
       }, {
-        "file": "great.gov.uk/domestic/help to sell/experienced exporters/en.md",
+        "content": "great.gov.uk/domestic/help to sell/experienced exporters/en.md",
         "link_label": "find_new_opportunities",
         "link_target": "https://www.great.gov.uk/export/regular"
       }],
       "subContentList": [{
-        "file": "great.gov.uk/domestic/get seen/en.md",
+        "content": "great.gov.uk/domestic/get seen/en.md",
         "link_label": "get_trade_index_profile",
         "link_target": "https://www.great.gov.uk/export/find-a-buyer"
       }, {
-        "file": "great.gov.uk/domestic/support for investment/en.md",
+        "content": "great.gov.uk/domestic/support for investment/en.md",
         "link_label": "see_sector_showcase",
         "link_target": "https://www.great.gov.uk/int/invest"
       }]
     },
     "children": [{
-      "url": "privacy-policy",
-      "pageTitle": "Privacy and cookies",
+      "path": "privacy-policy",
       "layout": "generic.html",
-      "contentBlocks": {
+      "data": {
+        "pageTitle": "Privacy and cookies",
         "contentList": [{
-          "file": "great.gov.uk/privacy-policy/content/en.md"
+          "content": "great.gov.uk/privacy-policy/content/en.md"
         }]
       }
     }, {
-      "url": "beta",
-      "pageTitle": "This is a new service",
+      "path": "beta",
       "layout": "generic.html",
-      "contentBlocks": {
+      "data": {
+        "pageTitle": "This is a new service",
         "contentList": [{
-          "file": "great.gov.uk/beta/en.md"
+          "content": "great.gov.uk/beta/en.md"
         }]
       }
     }, {
-      "url": "terms-and-conditions",
-      "pageTitle": "Terms and Conditions",
+      "path": "terms-and-conditions",
       "layout": "generic.html",
-      "contentBlocks": {
+      "data": {
+        "pageTitle": "Terms and Conditions",
         "contentList": [{
-          "file": "great.gov.uk/terms-and-conditions/content/en.md"
+          "content": "great.gov.uk/terms-and-conditions/content/en.md"
         }]
       }
     }]
