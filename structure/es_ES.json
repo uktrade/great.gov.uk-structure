@@ -45,7 +45,7 @@
       "path": "privacy-policy",
       "layout": "generic.html",
       "data": {
-        "pageTitle": "Privacy and cookies",
+        "pageTitle": "Política de privacidad",
         "contentList": [{
           "content": "great.gov.uk/privacy-policy/content/es.md"
         }]
@@ -63,7 +63,7 @@
       "path": "terms-and-conditions",
       "layout": "generic.html",
       "data": {
-        "pageTitle": "Terms and Conditions",
+        "pageTitle": "Términos y condiciones",
         "contentList": [{
           "content": "great.gov.uk/terms-and-conditions/content/es.md"
         }]

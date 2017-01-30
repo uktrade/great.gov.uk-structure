@@ -46,7 +46,7 @@
       "path": "privacy-policy",
       "layout": "generic.html",
       "data": {
-        "pageTitle": "Privacy and cookies",
+        "pageTitle": "隐私政策",
         "contentList": [{
           "content": "great.gov.uk/privacy-policy/content/zh.md"
         }]
