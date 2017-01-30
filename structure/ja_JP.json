@@ -1,0 +1,73 @@
+{
+  "globalData": {
+    "locale": {
+      "language": "ja",
+      "country": "jp",
+      "countryName": "日本"
+    },
+    "labels": {
+      "content": "_labels-great.gov.uk/ja.md",
+      "hoist": true
+    }
+  },
+  "pages": [{
+    "path": "jp",
+    "layout": "non-domestic.html",
+    "data": {
+      "pageTitle": "トップページ",
+      "pageHeader": {
+        "content": "great.gov.uk/non-domestic/experience the uk/ja.md"
+      },
+      "pageFooter": {
+        "content": "great.gov.uk/non-domestic/help to export/ja.md",
+        "link_label": "輸出のための支援を受ける",
+        "link_target": "/uk"
+      },
+      "list": [{
+        "content": "great.gov.uk/non-domestic/buy from the uk/ja.md",
+        "link_label": "buy_from_uk",
+        "link_target": "https://trade.great.gov.uk"
+      }, {
+        "content": "great.gov.uk/non-domestic/invest in the uk/ja.md",
+        "link_label": "可能性を見極める",
+        "link_target": "https://www.great.gov.uk/jp/invest"
+      }, {
+        "content": "great.gov.uk/non-domestic/study in the uk/ja.md",
+        "link_label": "詳細情報",
+        "link_target": "https://www.great.gov.uk/study"
+      }, {
+        "content": "great.gov.uk/non-domestic/visit the uk/ja.md",
+        "link_label": "訪英のご計画",
+        "link_target": "https://www.visitbritain.com/jp/ja"
+      }]
+    },
+    "children": [{
+      "path": "privacy-policy",
+      "layout": "generic.html",
+      "data": {
+        "pageTitle": "プライバシーとCookieに関する方針",
+        "contentList": [{
+          "content": "great.gov.uk/privacy-policy/content/ja.md"
+        }]
+      }
+    }, {
+      "path": "beta",
+      "layout": "generic.html",
+      "data": {
+        "pageTitle": "This is a new service",
+        "contentList": [{
+          "content": "great.gov.uk/beta/ja.md"
+        }]
+      }
+    }, {
+      "path": "terms-and-conditions",
+      "layout": "generic.html",
+      "data": {
+        "pageTitle": "の利用規約",
+        "contentList": [{
+          "content": "great.gov.uk/terms-and-conditions/content/ja.md"
+        }]
+      }
+    }]
+  }]
+}
