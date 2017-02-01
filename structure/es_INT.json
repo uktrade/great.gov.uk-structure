@@ -1,0 +1,73 @@
+{
+  "globalData": {
+    "locale": {
+      "language": "es",
+      "country": "int",
+      "countryName": "Internacional"
+    },
+    "labels": {
+      "content": "_labels-great.gov.uk/es.md",
+      "hoist": true
+    }
+  },
+  "pages": [{
+    "path": "int/es",
+    "layout": "non-domestic.html",
+    "data": {
+      "pageTitle": "Inicio",
+      "pageHeader": {
+        "content": "great.gov.uk/non-domestic/experience the uk/es.md"
+      },
+      "pageFooter": {
+        "content": "great.gov.uk/non-domestic/help to export/es.md",
+        "link_label": "help_to_export",
+        "link_target": "/uk"
+      },
+      "list": [{
+        "content": "great.gov.uk/non-domestic/buy from the uk/es.md",
+        "link_label": "buy_from_uk",
+        "link_target": "https://trade.great.gov.uk"
+      }, {
+        "content": "great.gov.uk/non-domestic/invest in the uk/es.md",
+        "link_label": "see_the_potential",
+        "link_target": "https://www.great.gov.uk/es/invest"
+      }, {
+        "content": "great.gov.uk/non-domestic/study in the uk/es.md",
+        "link_label": "learn_more",
+        "link_target": "https://www.great.gov.uk/study"
+      }, {
+        "content": "great.gov.uk/non-domestic/visit the uk/es.md",
+        "link_label": "plan_your_trip",
+        "link_target": "https://www.visitbritain.com/es/es"
+      }]
+    },
+    "children": [{
+      "path": "privacy-policy",
+      "layout": "generic.html",
+      "data": {
+        "pageTitle": "Política de privacidad",
+        "contentList": [{
+          "content": "great.gov.uk/privacy-policy/content/es.md"
+        }]
+      }
+    }, {
+      "path": "beta",
+      "layout": "generic.html",
+      "data": {
+        "pageTitle": "This is a new service",
+        "contentList": [{
+          "content": "great.gov.uk/beta/es.md"
+        }]
+      }
+    }, {
+      "path": "terms-and-conditions",
+      "layout": "generic.html",
+      "data": {
+        "pageTitle": "Términos y condiciones",
+        "contentList": [{
+          "content": "great.gov.uk/terms-and-conditions/content/es.md"
+        }]
+      }
+    }]
+  }]
+}
