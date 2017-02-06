@@ -1,5 +1,6 @@
 {
   "globalData": {
+    "direction": "rtl",
     "locale": {
       "language": "ar",
       "country": "int",
