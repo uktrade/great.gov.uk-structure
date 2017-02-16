@@ -46,7 +46,7 @@
       "path": "privacy-policy",
       "layout": "generic.html",
       "data": {
-        "pageTitle": "Privacy and cookies",
+        "pageTitle": "بيان خصوصية وملفات تعريف ارتباط الموقع الإلكتروني",
         "contentList": [{
           "content": "great.gov.uk/privacy-policy/content/ar.md"
         }]
