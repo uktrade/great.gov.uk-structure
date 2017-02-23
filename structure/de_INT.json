@@ -1,6 +1,7 @@
 {
 
   "globalData": {
+    "base": "/int/de",
     "locale": {
       "language": "de",
       "country": "int",

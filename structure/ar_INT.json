@@ -1,5 +1,6 @@
 {
   "globalData": {
+    "base": "/int/ar",
     "direction": "rtl",
     "locale": {
       "language": "ar",

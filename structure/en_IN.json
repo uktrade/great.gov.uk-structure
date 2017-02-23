@@ -1,6 +1,7 @@
 {
   "globalData": {
     "locale": {
+      "base": "/in",
       "language": "en",
       "country": "in",
       "countryName": "India"

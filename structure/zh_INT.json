@@ -1,6 +1,7 @@
 {
 
   "globalData": {
+    "base": "/int/zh",
     "locale": {
       "language": "zh",
       "country": "int",
