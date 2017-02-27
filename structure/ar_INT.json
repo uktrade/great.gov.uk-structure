@@ -16,7 +16,7 @@
     "path": "int/ar",
     "layout": "non-domestic.html",
     "data": {
-      "pageTitle": "Home",
+      "pageTitle": "ﺎﻟﺮﺌﻴﺴﻳﺓ",
       "pageHeader": {
         "content": "great.gov.uk/non-domestic/experience the uk/ar.md"
       },
@@ -65,7 +65,7 @@
       "path": "terms-and-conditions",
       "layout": "generic.html",
       "data": {
-        "pageTitle": "Terms and Conditions",
+        "pageTitle": "استخدام الموقع الإلكتروني www.GREAT.gov.uk",
         "contentList": [{
           "content": "great.gov.uk/terms-and-conditions/content/ar.md"
         }]
